@@ -1,0 +1,21 @@
+{
+  "name": "backend-project-chai-aur-code",
+  "version": "1.0.0",
+  "description": "a backend project by chai and code",
+  "main": "index.js",
+  "type": "module",
+  "scripts": {
+    "dev": "nodemon src/index.js",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "js",
+    "backend"
+  ],
+  "author": "dixita",
+  "license": "ISC",
+  "devDependencies": {
+    "nodemon": "^3.1.4",
+    "prettier": "^3.3.3"
+  }
+}
